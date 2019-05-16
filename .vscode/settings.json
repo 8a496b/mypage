@@ -1,0 +1,7 @@
+{
+    "pasteImage.insertPattern": "${imageSyntaxPrefix}/assets/${currentFileNameWithoutExt}/${imageFileName}${imageSyntaxSuffix}",
+    "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+    "pasteImage.path": "${projectRoot}/assets/${currentFileNameWithoutExt}",
+    "pasteImage.prefix": "/",
+    "pasteImage.basePath": "${projectRoot}/_site"
+}
