@@ -114,6 +114,12 @@ module Jekyll
 end
 ~~~
 
+~~~ python
+import numpy as np
+x = np.array([1,2,3])
+for p in x:
+    print(x)
+~~~
 ### GitHub Gist Embed
 
 An example of a Gist embed below.
